@@ -30,19 +30,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cb2ce6-59a8-47b2-ac27-9a2e1529c151" name="Changes" comment="добавлено форматирование">
-      <change afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.clang-tidy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zero-lab-main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="c6cb2ce6-59a8-47b2-ac27-9a2e1529c151" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,12 +49,12 @@
     &quot;assignee&quot;: &quot;ErnandesDaniel&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ErnandesDaniel/algorithms-and-data-structures-lab-1&quot;,
-    &quot;accountId&quot;: &quot;1cf424f9-b484-4173-8f5d-0c8efaddaa63&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ErnandesDaniel/algorithms-and-data-structures-lab-2",
+    "accountId": "1cf424f9-b484-4173-8f5d-0c8efaddaa63"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/DN3672/CLionProjects/algorithms-and-data-structures-lab-1/main.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/DN3672/CLionProjects/algorithms-and-data-structures-lab-1/main.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -193,7 +181,7 @@
       <workItem from="1758970930650" duration="1392000" />
       <workItem from="1758974541637" duration="2181000" />
       <workItem from="1758976974982" duration="638000" />
-      <workItem from="1758979945306" duration="344000" />
+      <workItem from="1758979945306" duration="486000" />
     </task>
     <task id="LOCAL-00001" summary="добавлены основные файлы C++ проекта">
       <option name="closed" value="true" />
@@ -283,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758975917259</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="добавлены основные файлы">
+      <option name="closed" value="true" />
+      <created>1758980308204</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758980308204</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +311,7 @@
     <MESSAGE value="доработка форматирования" />
     <MESSAGE value="уменьшено использование памяти" />
     <MESSAGE value="добавлено форматирование" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлено форматирование" />
+    <MESSAGE value="добавлены основные файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены основные файлы" />
   </component>
 </project>
